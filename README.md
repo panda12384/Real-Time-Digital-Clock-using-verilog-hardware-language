@@ -6,6 +6,8 @@ Seconds Counter: Counts from 0 to 59 and then resets to 0.
 Minutes Counter: Counts from 0 to 59 and then resets to 0.
 Hours Counter: Counts from 0 to 23 (24-hour format) and then resets to 0.
 
+![Uploading th.jpeg…]()
+
 
 Clock Divider: This module generates a 1 Hz clock signal from the input clock. Adjust the DIVISOR parameter based on your input clock frequency (e.g., 50 MHz).
 Real-Time Clock: This module increments the seconds counter every 1 Hz clock tick. When seconds reach 59, it resets to 0 and increments the minutes counter. The same logic applies to the minutes and hours counters.
