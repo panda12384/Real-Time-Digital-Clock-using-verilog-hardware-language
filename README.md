@@ -6,7 +6,8 @@ Seconds Counter: Counts from 0 to 59 and then resets to 0.
 Minutes Counter: Counts from 0 to 59 and then resets to 0.
 Hours Counter: Counts from 0 to 23 (24-hour format) and then resets to 0.
 
-![Uploading th.jpeg…]()
+
+![th](https://github.com/panda12384/Real-Time-Digital-Clock-using-verilog-hardware-language/assets/160568759/8998692e-dda7-44bb-af17-4680376cddc2)
 
 
 Clock Divider: This module generates a 1 Hz clock signal from the input clock. Adjust the DIVISOR parameter based on your input clock frequency (e.g., 50 MHz).
